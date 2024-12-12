@@ -120,7 +120,7 @@ This proof of concept demonstrates:
 - ✅ Basic encryption
 - ✅ Async API endpoints
 
-Planned for funded development:
+Planned for the future:
 - 🚧 End-to-end encryption
 - 🚧 Zero-knowledge identity management
 - 🚧 Matrix protocol integration
