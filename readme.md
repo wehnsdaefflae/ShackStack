@@ -1,4 +1,4 @@
-# # ShackStack Proof of Concept
+# ShackStack Proof of Concept
 
 ShackStack is a decentralized infrastructure for secure community resource coordination. This proof of concept demonstrates the core functionality of decentralized space mapping using IPFS and basic smart contracts.
 
